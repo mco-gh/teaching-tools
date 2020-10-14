@@ -45,7 +45,7 @@ w3resource|https://www.w3resource.com/|Practice code problems
 yoteachapp|https://yoteachapp.com/|in-class backchannel
 
 
-## CSS50 Toolss
+## CSS50 Tools
 
 Type|Tool|URL|Problem Solved
 ----|----|---|--------------
