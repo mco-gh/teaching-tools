@@ -10,9 +10,7 @@ Canvas Live API|https://canvas.instructure.com/doc/api/live|Access and modify da
 Catch |https://github.com/catchorg|Framework for unit tests for C++
 Code School: Rails for Zombies|https://www.pluralsight.com/courses/code-school-rails-for-zombies|Practice code problems
 codePost|https://codepost.io/|Providing feedback for code
-Colaboratory|colab.research.google.com|"Cloud hosted Jupyter notebook server| integrated with Google Drive and Github. Superb for authoring| hosting| and sharing Python 2 or 3 notebooks with built-in support for many popular libs (e.g. numpy| scipy| pandas| scikit-learn| TensorFlow| etc.)| GPUs and Google TPUs. Also| it's free| no credit card needed| and no signup required (other than a gmail account)
-
-Example training MNIST using TPUs: bit.ly/mco-colab. (Questions? mco@google.com)"
+Colaboratory|colab.research.google.com|"Cloud hosted Jupyter notebook server| integrated with Google Drive and Github. Superb for authoring| hosting| and sharing Python 2 or 3 notebooks with built-in support for many popular libs (e.g. numpy| scipy| pandas| scikit-learn| TensorFlow| etc.)| GPUs and Google TPUs. Also| it's free| no credit card needed| and no signup required (other than a gmail account) Example training MNIST using TPUs: bit.ly/mco-colab. (Questions? mco@google.com)"
 Computer-Based Testing Facility|https://cbtf.engr.illinois.edu/|Infrastructure for secure testing on lab computers
 CryptoZombies|https://cryptozombies.io/|Practice code problems
 Flubaroo|flubaroo.com|Do you create exams or other assessments using Google Forms? Now you gotta grade that Google Sheet? Flubaroo automates this. You take the test and tell Flubaroo that's the answer key. Now it grades all the other rows in the Sheet. Created by a teacher for teachers.
