@@ -47,7 +47,7 @@ yoteachapp|https://yoteachapp.com/|in-class backchannel
 
 ## CSS50 Toolss
 
-Type,Tool,URL,Problem Solved
+Type|Tool|URL|Problem Solved
 ----|----|---|--------------
 Organization|1Password|https://1password.com/|Password Manager with support for team vaults
 Classroom|Adobe Connect|https://www.adobe.com/products/adobeconnect.html|Video conferencing; live online courses
