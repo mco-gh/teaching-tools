@@ -1,6 +1,8 @@
 # teaching-tools
 Catalog of Teaching Tools
 
+## General
+
 Tool|URL|Problem Solved
 ----|---|--------------
 Assessory|http://assessory.org/|Assessory is an open source tool for smart and social assessment
@@ -41,3 +43,50 @@ Trello|https://trello.com|Task manager
 Uniauth|https://pypi.org/project/uniauth/|Minimalist and framework independent package that provides common OAuth (1 & 2) consumers (or the ability to easily add more). For university authentication support
 w3resource|https://www.w3resource.com/|Practice code problems
 yoteachapp|https://yoteachapp.com/|in-class backchannel
+
+
+## CSS50 Toolss
+
+Type,Tool,URL,Problem Solved
+----|----|---|--------------
+Organization|1Password|https://1password.com/|Password Manager with support for team vaults
+Classroom|Adobe Connect|https://www.adobe.com/products/adobeconnect.html|Video conferencing; live online courses
+Team Administration|Asana|https://asana.com/|Task manager; can also be used for assignment deadlines
+Assessment|check50|https://cs50.readthedocs.io/projects/check50/|Automated checking of student code
+Programming Tools|cli50|https://cs50.readthedocs.io/cli50/|"Command-line tool via which you can (easily!) mount a directory within a container running cs50/cli| a Docker image based on Ubuntu 18.04"
+Plagiarism Detection|compare50|http://github.com/cs50/compare50|"Open-source alternative to Moss| work in progress"
+Classroom|CS50 IDE|https://ide.cs50.io/|Cloud-based IDE providing a web-based standard environment for coding
+Programming Environment|CS50 Lab|https://cs50.readthedocs.io/lab/|Programming environment at lab.cs50.io for scaffolded learning
+Programming Environment|CS50 Sandbox|https://cs50.readthedocs.io/sandbox/|Temporary programming environments for students and teachers
+Online Learning|CS50 Video Player|https://cs50.readthedocs.io/video/|"Synchronizes instructional videos (e.g.| lectures) with screen recordings so that students can toggle between the two"
+Organization|Dillinger.io|https://dillinger.io/|Browser-based notetaking in Markdown; file exports
+Q&A|Discourse|https://www.discourse.org/|"StackOverflow-like tool| no longer used by CS50"
+Team Administration|Dropbox|https://www.dropbox.com/|Cloud storage for teams and individuals
+Q&A|Ed|https://us.edstem.org/|"Piazza alternative| currently used by CS50"
+Course Administration|Etector|http://www.etector.org/|Plagiarism detection software
+Course Administration|Front|https://frontapp.com|Shared inboxes for teams (such as course head teams)
+Classroom|Git|https://git-scm.com/|"Version control software| especially helpful for collaborative work"
+Classroom|GitHub Pages|https://pages.github.com/|Hosts static sites from a GitHub repo and gives users a public URL to share their work
+Course Administration|Google Docs|https://docs.google.com/document/|Collaborative notetaking
+Team Administration|Google Drive|https://drive.google.com/drive/|Cloud storage for teams and individuals
+Assessment|Google Forms|https://docs.google.com/forms/|Create surveys and quizzes
+Course Administration|Google Groups|https://groups.google.com|Course email list management outside of LMS
+Classroom|Google Hangouts|https://hangouts.google.com|Video conferencing; live online courses
+Organization|Google Spreadsheets|https://docs.google.com/spreadsheets/|Keeping track of grades; cross-referencing data outside of an LMS
+Assessment|Gradescope|https://www.gradescope.com/|Grading exams
+Programming Tools|help50|https://github.com/cs50/help50|Ccommand-line tool that helps students understand error messages
+Course Administration|HelpScout|https://www.helpscout.com/|Shared inboxes for teams (such as course head teams)
+Classroom|Jekyll|https://jekyllrb.com/|Stylized templates that convert .md files to .html files
+Course Administration|Moss|http://theory.stanford.edu/~aiken/moss/|Plagiarism detection software
+Team Administration|Notion|https://www.notion.so/|Documentation and organization; wiki-like structure for easy maintenance
+Graphic Design Tools|OmniGraffle|https://www.omnigroup.com/omnigraffle|Software for generating diagrams and other graphics for lecture slides and problem specifications
+Classroom|Poll Everywhere|https://www.polleverywhere.com/|In-class polling tool
+Team Administration|Quip|https://quip.com|Team collaboration and scrumboarding
+Course Administration|render50|https://cs50.readthedocs.io/render50/|Command-line tool with which you can generate syntax-highlighted PDFs of source code
+Course Administration|CS50 Render|https://cs50.readthedocs.io/render/|Web app with which you can generate syntax-highlighted PDFs of source code
+Team Administration|Slack|https://slack.com|Chat service with support for different channel chats and direct messages
+Assessment|Slido|https://www.sli.do/|Interactive questioning and polling
+Programming Tools|style50|https://cs50.readthedocs.io/style50/|Command-line tool with which you can check your code for consistency with a style guide
+Assessment|Wufoo|https://wufoo.com|Create surveys and quizzes
+Course Administration|Zapier|https://zapier.com|Automate work flows between web apps
+Classroom|Zoom|https://zoom.us|Video conferencing; live online courses
