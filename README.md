@@ -2,6 +2,7 @@
 Catalog of Teaching Tools
 
 Tool|URL|Problem Solved
+----|---|--------------
 Assessory|http://assessory.org/|Assessory is an open source tool for smart and social assessment
 Assessory GitHub repo|https://github.com/assessory/assessory|GitHub repo for Assessory
 Canvas API|https://canvas.instructure.com/doc/api/ |Access and modify data from Canvas (LMS)
